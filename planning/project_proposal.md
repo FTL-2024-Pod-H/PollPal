@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Samuel Rebuelta-Sanchez, Hanna Abrahem, Kiahna Isadore, Lucky Beulla Muhoza**
 
 ## Problem Statement
 
@@ -21,3 +21,13 @@ What similar apps and websites? How will your project stand out from these other
 ## Open Questions
 
 What questions do you still have? What topics do you need to research more for your project?
+
+
+
+Ideas:
+1) Political Figure in your area - Hanna
+2) Food Pantry Finder - Hanna
+3) Financial Advising App - Kiahna
+4) Spending and Earning Tracker with AI predictor - Lucky
+5) Diabetes Care/Tracker - Lucky
+6) Hotel Booking System - Sam
