@@ -10,8 +10,7 @@ Pod Members: **Samuel Rebuelta-Sanchez, Hanna Abrahem, Kiahna Isadore, Lucky Beu
 
 ## User Roles
 
-- Regular Voter
-- First-time voter
+- Voter
 
 ## User Personas
 
@@ -26,16 +25,17 @@ Include at least 2 personas per User Role
 
 Include at least 10 user stories.
 
-1. **As a [regular voter], I want to [be able to log in/out], so that [I can save my preferences]**
-2. **As a [regular voter], I want to [bookmark candidates], so that [I can access them later]**
-3. **As a [regular voter], I want to [receive updates], so that [I know what is coming up]**
-4. **As a [regular voter], I want to [save my location], so that [I don't have to enter it all the time]**
-5. **As a [user with account], I want to [add/view other users' insights on elections/candidates], so that [I can form better political opinions]**
-6. **As a [user without account], I want to [easily scroll through a list of candidates], so that [I know who is running for a particular election]**
-7. **As a [non-registered user], I want to [be able to make an account], so that [I can access bookmarking and other features.]**
-8. **As a [non-registered user], I want to [find nearby polling locations], so that [I can vote]**
-9. **As a [non-registered user], I want to [input my location], so that [I can find info about elections in my area]**
-10. **As a [non-registered user], I want to [access details on specific candidates], so that [I can compare them]**
+1. **As a [new voter], I want to [have a clear and concise explanation of the US election system], so that [I can understand how my vote contributes to the election process]**
+2. **As a [frequent voter], I want to [bookmark candidates], so that [I can access them later]**
+3. **As a [voter], I want to [receive updates], so that [I know what is coming up]**
+4. **As a [voter seeking unbiased information], I want to [see election information objectively], so that [I can make informed decisions without bias]**
+5. **As a [voter wanting to engage with others], I want to [add/view other users' insights on elections/candidates], so that [I can form better political opinions]**
+6. **As a [regular voter], I want to [easily scroll through a list of candidates], so that [I know who is running for a particular election]**
+7. **As a [frequent voter], I want to [be able to make an account], so that [set personal preferences.]**
+8. **As a [voter interested in local politics], I want to [find nearby polling locations], so that [I can vote for candidates in my district.]**
+9. **As a [voter interested in local politics], I want to [input my location], so that [I can find info about elections in my area]**
+10. **As a [voter], I want to [access details on specific candidates], so that [I can compare them]**
+
 
 ## Wireframe (Bonus)
 
