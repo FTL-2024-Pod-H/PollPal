@@ -4,7 +4,10 @@ Pod Members: **Kiahna Isadore, Lucky Beulla Muhoza, Samuel Rebuelta-Sanchez, Han
 
 ## Problem Statement and Description
 
-Insert the latest summary of your problem statement and app description.
+Problem Statement: Only 66% of registered voters voted in the 2020 presidential election. Most who do vote are uninformed about the candidates' views/stances, as well as what each position does.
+
+App Description: 
+The voter information app, Poll Pal, is a full-stack web application designed to provide users with comprehensive election information and nearby polling locations. By entering their location, users can find detailed election information, view their state representatives, learn basic election information and utilize a chatbot for any further inquiries. Additionally, users can engage in forum discussions. The app aims to enhance civic engagement and help users make voting decisions.
 
 ## User Roles and Personas
 
@@ -23,12 +26,12 @@ Include at least 2 personas per User Role
 
 ## User Stories
 
-1. **As a [new voter], I want to [have a clear and concise explanation of the US election system], so that [I can understand how my vote contributes to the election process]**
+1. **As a [new voter], I want to [have a clear explanation of the US election system], so that [I can understand how my vote contributes to the election process]**
 2. **As a [frequent voter], I want to [view representatives in my state], so that [I know who my representatives are]**
 3. **As a [voter], I want to [receive updates], so that [I know what is coming up]**
 4. **As a [voter seeking information], I want to [see election information], so that [I can make informed decisions]**
 5. **As a [voter wanting to engage with others], I want to [add/view other users' insights on elections/candidates], so that [I can form better political opinions]**
-6. **As a [regular voter], I want to [easily scroll through a list of candidates], so that [I know who is running for a particular election]**
+6. **As a [voter], I want to [view representatives/officials specific to my address], so that [I know who my local, state, and federal representatives are]**
 7. **As a [frequent voter], I want to [be able to make an account], so that [I can save my address.]**
 8. **As a [voter interested in local politics], I want to [find nearby polling locations], so that [I can vote for candidates in my district.]**
 9. **As a [voter interested in local politics], I want to [input my location], so that [I can find info about elections in my area]**
@@ -36,7 +39,12 @@ Include at least 2 personas per User Role
 
 ## Pages/Screens
 
-List all the pages and screens in the app. Include wireframes for at least 3 of them.
+[Poll Pal Figma](https://www.figma.com/design/9ET83jaqaFyjPJmQf6prFH/Poll-Pal?node-id=0-1&t=fGcdH1RtCfCEtQBH-0)
+
+<img width="454" alt="Screenshot 2024-07-11 at 4 37 51 PM" src="https://github.com/user-attachments/assets/0c813b6e-90ff-428c-a82d-2e021809ba27">
+<img width="543" alt="Screenshot 2024-07-11 at 4 39 36 PM" src="https://github.com/user-attachments/assets/7ad215ee-c64d-4dd0-8c57-b5cf4841983b">
+<img width="545" alt="Screenshot 2024-07-11 at 4 38 37 PM" src="https://github.com/user-attachments/assets/083d1ec3-5f2f-47b2-9c09-4fefba4b6044">
+
 
 ## Data Model
 
@@ -64,4 +72,7 @@ Describe your app's data model using diagrams or tables
 <img width="659" alt="Screenshot 2024-07-11 at 11 36 31 AM" src="https://github.com/user-attachments/assets/6a9761ef-cdf7-4bfd-bb3b-d9d14936df82">
 
 
-***Don't forget to set up your Issues, Milestones, and Project Board!***
+## Trello Board
+<img width="1792" alt="Screenshot 2024-07-11 at 3 57 13 PM" src="https://github.com/user-attachments/assets/4afbb505-3746-4218-b349-730077b61891">
+
+
