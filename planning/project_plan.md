@@ -52,8 +52,9 @@ Describe your app's data model using diagrams or tables
 2. Gets Specifc Election Information by address and ID: https://www.googleapis.com/civicinfo/v2/voterinfo?key=APIKEY&address=ADDRESS&electionId=####
 3. Gets US Representatives and local officials: https://www.googleapis.com/civicinfo/v2/representatives?key=APIKEY&address=ADDRESS
 
-**Google Maps API***
-1. 
+**Google Maps API**: 
+1. Providing autocomplete suggestions for addresses based on user input: https://maps.googleapis.com/maps/api/place/autocomplete/json?input=USER_INPUT&key=API_KEY
+2. Fetch complete address with google format when user selects one place: https://maps.googleapis.com/maps/api/place/details/json?place_id=PLACE_ID&key=API_KEY
 
 **Congress.gov API**:
 1. Gets Current Congress members by state: https://api.congress.gov/v3/member/congress/118/STATE?limit=80&api_key=APIKEY
