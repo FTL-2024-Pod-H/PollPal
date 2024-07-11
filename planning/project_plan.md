@@ -42,8 +42,22 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 Describe your app's data model using diagrams or tables
 
+<img width="1792" alt="Screenshot 2024-07-10 at 4 18 31 PM" src="https://github.com/FTL-2024-Pod-H/PollPal/assets/117693506/8496832b-24f2-48cf-8d05-11cdde3b0c69">
+
+
 ## Endpoints
 
-List the API endpoints you will need to implement.
+**Google Civic Information API**:
+1. Gets all current US Elections: https://www.googleapis.com/civicinfo/v2/elections?key=APIKEY
+2. Gets Specifc Election Information by address and ID: https://www.googleapis.com/civicinfo/v2/voterinfo?key=APIKEY&address=ADDRESS&electionId=####
+3. Gets US Representatives and local officials: https://www.googleapis.com/civicinfo/v2/representatives?key=APIKEY&address=ADDRESS
+
+**Google Maps API***
+1. 
+
+**Congress.gov API**:
+1. Gets Current Congress members by state: https://api.congress.gov/v3/member/congress/118/STATE?limit=80&api_key=APIKEY
+
+
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
