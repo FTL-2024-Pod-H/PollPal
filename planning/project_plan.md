@@ -45,7 +45,7 @@ Describe your app's data model using diagrams or tables
 <img width="1792" alt="Screenshot 2024-07-10 at 4 18 31 PM" src="https://github.com/FTL-2024-Pod-H/PollPal/assets/117693506/8496832b-24f2-48cf-8d05-11cdde3b0c69">
 
 
-## Endpoints
+## API Endpoints
 
 **Google Civic Information API**:
 1. Gets all current US Elections: https://www.googleapis.com/civicinfo/v2/elections?key=APIKEY
@@ -59,6 +59,9 @@ Describe your app's data model using diagrams or tables
 **Congress.gov API**:
 1. Gets Current Congress members by state: https://api.congress.gov/v3/member/congress/118/STATE?limit=80&api_key=APIKEY
 
+## Database Endpoints
+
+<img width="659" alt="Screenshot 2024-07-11 at 11 36 31 AM" src="https://github.com/user-attachments/assets/6a9761ef-cdf7-4bfd-bb3b-d9d14936df82">
 
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
