@@ -39,7 +39,7 @@ Include at least 2 personas per User Role
 
 ## Pages/Screens
 
-[Poll Pal Figma](https://www.figma.com/design/9ET83jaqaFyjPJmQf6prFH/Poll-Pal?node-id=0-1&t=fGcdH1RtCfCEtQBH-0)
+[Poll Pal Figma Link](https://www.figma.com/design/9ET83jaqaFyjPJmQf6prFH/Poll-Pal?node-id=0-1&t=fGcdH1RtCfCEtQBH-0)
 
 <img width="454" alt="Screenshot 2024-07-11 at 4 37 51 PM" src="https://github.com/user-attachments/assets/0c813b6e-90ff-428c-a82d-2e021809ba27">
 <img width="543" alt="Screenshot 2024-07-11 at 4 39 36 PM" src="https://github.com/user-attachments/assets/7ad215ee-c64d-4dd0-8c57-b5cf4841983b">
@@ -73,6 +73,8 @@ Describe your app's data model using diagrams or tables
 
 
 ## Trello Board
+[Trello Board Link](https://trello.com/b/Xa2LRxNz/poll-pals)
+
 <img width="1792" alt="Screenshot 2024-07-11 at 3 57 13 PM" src="https://github.com/user-attachments/assets/4afbb505-3746-4218-b349-730077b61891">
 
 
