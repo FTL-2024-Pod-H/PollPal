@@ -4,7 +4,7 @@ Pod Members: **Kiahna Isadore, Lucky Beulla Muhoza, Samuel Rebuelta-Sanchez, Han
 
 ## Problem Statement and Description
 
-Problem Statement: Only 66% of registered voters voted in the 2020 presidential election. Most who do vote are uninformed about the candidates' views/stances, as well as what each position does.
+Problem Statement: Nearly half of the US population lacks information about how elections work, who represents them (local & state level), and where/how to vote.
 
 App Description: 
 The voter information app, Poll Pal, is a full-stack web application designed to provide users with comprehensive election information and nearby polling locations. By entering their location, users can find detailed election information, view their state representatives, learn basic election information and utilize a chatbot for any further inquiries. Additionally, users can engage in forum discussions. The app aims to enhance civic engagement and help users make voting decisions.
