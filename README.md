@@ -12,8 +12,8 @@ Mentors Names: **Erika Lee**
 
 Project Code Repository Links
 
-* [Frontend Repo Link]()
-* [Backend Repo Link]()
+* [Frontend Repo Link](https://github.com/FTL-2024-Pod-H/PollPalUI)
+* [Backend Repo Link](https://github.com/FTL-2024-Pod-H/PollPalAPI)
 
 ## Project Overview
 
