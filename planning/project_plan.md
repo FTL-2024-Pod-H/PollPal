@@ -50,7 +50,7 @@ Include at least 2 personas per User Role
 
 Describe your app's data model using diagrams or tables
 
-<img width="1792" alt="Screenshot 2024-07-10 at 4 18 31 PM" src="https://github.com/FTL-2024-Pod-H/PollPal/assets/117693506/8496832b-24f2-48cf-8d05-11cdde3b0c69">
+<img width="1317" alt="Screenshot 2024-07-24 at 1 17 44 PM" src="https://github.com/user-attachments/assets/36d1fef0-03ca-4123-979e-73a6a89fc9b5">
 
 
 ## API Endpoints
