@@ -1,12 +1,11 @@
 # Reflection #2
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Kiahna Isadore, Lucky Beulla Muhoza, Samuel Rebuelta-Sanchez, Hanna Abrahem**
 
 ## Reflection Questions
 
 * Name at least one successful thing this week.
-
- Add response here
+  - We fully completed our MVP
 
 * What were some challenges you and/or your group faced this week?
 
