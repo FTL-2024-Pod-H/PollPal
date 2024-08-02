@@ -6,9 +6,9 @@ SITE Course Year: **2024**
 
 Cohort: **Add Company Sponsor Name**
 
-Team Member Names:**Samuel Rebuelta-Sanchez, Hanna Abrahem, Kiahna Isadore, Lucky Beulla Muhoza**
+Team Member Names: **Samuel Rebuelta-Sanchez, Hanna Abrahem, Kiahna Isadore, Lucky Beulla Muhoza**
 
-Mentors Names: **Erika Lee**
+Mentors Names: **Erika Lee, Ankit Arora, Madhura Kasinadhuni, Kim Lamon, Padmaja Sriraman**
 
 Project Code Repository Links
 
@@ -19,7 +19,7 @@ Project Code Repository Links
 
 Add a quick summary of what your project theme and objectives are. 
 
-Deployment Website: **Add Link to Deployed Project**
+Deployment Website: **[PollPal](https://pollpalui.onrender.com/)**
 
 ### Open-source libraries used
 
