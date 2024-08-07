@@ -1,10 +1,8 @@
-📝 `NOTE` Use this template repo to initialize the contents of your group's capstone repo project. As you work on your assignment over the course of the week, update the appropriate repo deliverables. All project planning should be included in the planning directory. (🚫 Remove this paragraph before submitting your assignment.)
-
 # PollPal (Captsone Project)
 
 SITE Course Year: **2024**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **Salesforce x Codepath Futureforce Tech Launchpad**
 
 Team Member Names: **Samuel Rebuelta-Sanchez, Hanna Abrahem, Kiahna Isadore, Lucky Beulla Muhoza**
 
@@ -21,6 +19,18 @@ Add a quick summary of what your project theme and objectives are.
 
 Deployment Website: **[PollPal](https://pollpalui.onrender.com/)**
 
+<div>
+    <a href="https://www.loom.com/share/019e28e5a37f423291adf91df0fa2b71">
+      <p>PollPal Demo </p>
+    </a>
+    <a href="https://www.loom.com/share/019e28e5a37f423291adf91df0fa2b71">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/019e28e5a37f423291adf91df0fa2b71-5ab174b9d54f5a5b-full-play.gif">
+    </a>
+  </div>
+<!-- link to our slides: 
+https://www.figma.com/deck/uAw6N5ZWD4LPDTNhR2WGo1/PollPal-Demo?node-id=70-224&t=hq7crznfJ4mJc5at-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A222s:
+ -->
+ 
 ### Open-source libraries used
 
 - Add any links to open-source libraries used in your project.
