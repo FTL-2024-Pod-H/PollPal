@@ -6,7 +6,9 @@ Cohort: **Salesforce x Codepath Futureforce Tech Launchpad**
 
 Team Member Names: **Samuel Rebuelta-Sanchez, Hanna Abrahem, Kiahna Isadore, Lucky Beulla Muhoza**
 
-Mentors Names: **Erika Lee, Ankit Arora, Madhura Kasinadhuni, Kim Lamon, Padmaja Sriraman**
+Mentors Names: **Ankit Arora, Madhura Kasinadhuni, Kim Lamon, Padmaja Sriraman**
+
+Advisor: **Erika Lee**
 
 Project Code Repository Links
 
@@ -15,7 +17,7 @@ Project Code Repository Links
 
 ## Project Overview
 
-Add a quick summary of what your project theme and objectives are. 
+A unified platform that enables users to access real-time election information, locate nearby voting centers, register for voting, and identify their current local and state representatives.
 
 Deployment Website: **[PollPal](https://pollpalui.onrender.com/)**
 
@@ -30,7 +32,4 @@ Deployment Website: **[PollPal](https://pollpalui.onrender.com/)**
 <!-- link to our slides: 
 https://www.figma.com/deck/uAw6N5ZWD4LPDTNhR2WGo1/PollPal-Demo?node-id=70-224&t=hq7crznfJ4mJc5at-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A222s:
  -->
- 
-### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
